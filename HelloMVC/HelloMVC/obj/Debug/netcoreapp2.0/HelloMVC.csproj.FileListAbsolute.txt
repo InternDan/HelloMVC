@@ -1,0 +1,11 @@
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.deps.json
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.runtimeconfig.json
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.runtimeconfig.dev.json
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.dll
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.pdb
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.csprojResolveAssemblyReference.cache
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.csproj.CoreCompileInputs.cache
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.AssemblyInfoInputs.cache
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.AssemblyInfo.cs
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.dll
+C:\Users\buffa\Google Drive\lc101\source\repos\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.pdb
